@@ -29,7 +29,7 @@ cd validate
 python validate_SIDD.py
 ```
 
-### Training (removed due to confidentiality agreement)
+### Training (removed due to confidentiality agreement, see [here](https://github.com/nagejacob/SpatiallyAdaptiveSSID/tree/731adb9b5dcc3a860d207436f5fee6f794b2e5f4))
 Training on SIDD Medium dataset,
 ```
 sh train.sh
